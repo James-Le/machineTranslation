@@ -1,2 +1,2 @@
 # machineTranslation
-Based on multiple deep learning models
+Based on multiple deep learning models.
