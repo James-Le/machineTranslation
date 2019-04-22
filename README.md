@@ -1,2 +1,2 @@
 # machineTranslation
-Based on multiple deep learning models.
+Based on seq2seq model with pre-trained word2vec embeddings, attention mechanism and beam search strategy.
