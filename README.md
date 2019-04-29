@@ -1,6 +1,10 @@
 # machineTranslation
 
-Baselines are based on different seq2seq models with pre-trained word2vec embeddings, attention mechanism, beam search strategy.
+NMTs are based on different seq2seq models with pre-trained word2vec embeddings, attention mechanism, beam search strategy.
+
+This very first baseline is a simple single-directional LSTM RNN with encoder and decoder.
+
+Then I used pre-trained word2vec embeddings and add attention mechanism and beam-search generator to test its improvement.
 
 ![image](https://github.com/James-Le/machineTranslation/blob/master/baseline_loss.png)
 
